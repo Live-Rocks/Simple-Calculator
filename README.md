@@ -1,4 +1,4 @@
-# Simple-Calculator()
+# Simple-Calculator(sol)
 
 // SPDX-License-Identifier: GPL-3.0
 
